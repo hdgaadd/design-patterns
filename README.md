@@ -1,5 +1,4 @@
-# SuperRobot
-设计模式Demo：
+# 设计模式Demo
 
 ✅  策略模式
 
