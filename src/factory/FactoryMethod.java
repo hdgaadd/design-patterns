@@ -2,7 +2,7 @@ package factory;
 
 import java.util.ArrayList;
 import java.util.List;
-//工厂方法模式
+//工厂方法模式//test
 public class FactoryMethod {
     abstract static class Farm {
         List<Animal> productList=new ArrayList<>();//只能生产同一类型的产品动物，而不能生产多种类型的产品，例如水果
