@@ -1,7 +1,8 @@
-package factory;
+package com.codeman.factory;
 
 import java.util.ArrayList;
 import java.util.List;
+
 //工厂方法模式
 public class FactoryMethod {
     abstract static class Farm {

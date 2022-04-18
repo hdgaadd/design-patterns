@@ -1,8 +1,4 @@
-package singleton;
-
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
+package com.codeman.singleton;
 
 //饿汉式
 public class EarlySingleton {

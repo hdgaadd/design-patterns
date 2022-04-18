@@ -1,4 +1,4 @@
-package interceptor.component;
+package com.codeman.interceptor.component;
 
 /**
  * @author hdgaadd

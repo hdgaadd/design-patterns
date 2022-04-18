@@ -1,4 +1,4 @@
-package interceptor;
+package com.codeman.interceptor;
 
 import interceptor.component.FilterManager;
 import interceptor.component.Target;

@@ -1,4 +1,4 @@
-package interceptor.filter;
+package com.codeman.interceptor.filter;
 
 /**
  * @author hdgaadd

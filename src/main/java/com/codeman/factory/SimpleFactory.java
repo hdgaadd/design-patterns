@@ -1,7 +1,8 @@
-package factory;
+package com.codeman.factory;
 
 import java.util.ArrayList;
 import java.util.List;
+
 //简单工厂模式
 public class SimpleFactory {
     public static void main(String[] args) {

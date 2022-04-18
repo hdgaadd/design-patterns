@@ -1,4 +1,4 @@
-package singleton;
+package com.codeman.singleton;
 
 //懒汉式
 //只能通过类方法来创建对象实例，而不能通过new来获取对象实例

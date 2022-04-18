@@ -1,4 +1,4 @@
-package iterator;
+package com.codeman.iterator;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,9 +9,11 @@ public class Iterator {
 
     }
 }
+
 class SaveArray {
     int[] array=new int[]{1,2,3};
 }
+
 class SaveList{
     List<Integer> list=new ArrayList<Integer>(){{
         add(5);add(6);add(7);

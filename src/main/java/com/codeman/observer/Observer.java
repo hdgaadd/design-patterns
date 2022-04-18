@@ -1,6 +1,7 @@
-package observer;
+package com.codeman.observer;
 import java.util.ArrayList;
 import java.util.List;
+
 //观察者模式：实现注册与通知
 class Child{
     String name;
@@ -12,10 +13,15 @@ class Child{
         return name+"接收到妈妈的消息有："+message;
     }
 };
+
 class A extends Child{public A(){name="孩子A";}};
+
 class B extends Child{public B(){name="孩子B";}};
+
 class C extends Child{public C(){name="孩子C";}};
+
 class D extends Child{public D(){name="孩子D";}};
+
 public class Observer {
     public static void main(String[] args) {
         A a=new A();  //孩子A未注册，不会接收到通知
