@@ -12,6 +12,8 @@
 
 ✅  拦截过滤器模式
 
+✅  责任链模式
+
 
 
 
@@ -22,7 +24,11 @@
 
 
 
+## chain-of-responsibility-patterns
 
+**process**
+
+- 责任链模式就像踢皮球，遇到困难，**抛给上级**去处理
 
 ## interceptor
 

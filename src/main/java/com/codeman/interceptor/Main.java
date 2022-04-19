@@ -1,9 +1,9 @@
 package com.codeman.interceptor;
 
-import interceptor.component.FilterManager;
-import interceptor.component.Target;
-import interceptor.filter.FilterOne;
-import interceptor.filter.FilterTwo;
+import com.codeman.interceptor.component.FilterManager;
+import com.codeman.interceptor.component.Target;
+import com.codeman.interceptor.filter.FilterOne;
+import com.codeman.interceptor.filter.FilterTwo;
 
 /**
  * @author hdgaadd

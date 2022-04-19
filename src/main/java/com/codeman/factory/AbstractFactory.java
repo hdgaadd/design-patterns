@@ -1,11 +1,12 @@
 package com.codeman.factory;
 
+
 import java.util.ArrayList;
 import java.util.List;
 
 //抽象工厂模式
 abstract class Farm {
-    List<Product> productList=new ArrayList<>();//可以生产多种类型的产品：动物、水果
+    List<Product> productList=new ArrayList<Product>();//可以生产多种类型的产品：动物、水果
 }
 
 class GuangZhouFarm extends Farm {

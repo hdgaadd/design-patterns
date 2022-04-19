@@ -1,6 +1,6 @@
 package com.codeman.chainofresponsibilitypatterns;
 
-import lombok.AllArgsConstructor;
+import com.codeman.chainofresponsibilitypatterns.objs.Employee;
 import lombok.Data;
 
 /**
@@ -8,9 +8,8 @@ import lombok.Data;
  * Created on 2022/04/18
  */
 @Data
-@AllArgsConstructor
 public abstract class Handler {
     private Handler nextHandler;
 
-    protected abstract void doHandler(Handler handler);
+    public abstract void doHandler(Employee employee);
 }
