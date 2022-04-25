@@ -16,10 +16,10 @@ public class Boss extends Handler {
     @Override
     public void doHandler(Employee employee) {
         if (employee.getVacateDays() <= 3) {
-            log.info("审核通过");
+            log.info("审核人可通过的请假天数<=3，" + employee.getEmployeeName() + "审核通过");
         } else {
             if (Objects.isNull(getNextHandler())) {
-                log.info("审核失败");
+                log.info("审核人可通过的请假天数<=3，" + employee.getEmployeeName() + "审核失败");
             } else {
                 getNextHandler().doHandler(employee);
             }
