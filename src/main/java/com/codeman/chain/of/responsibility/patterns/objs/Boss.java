@@ -1,6 +1,5 @@
-package com.codeman.chainofresponsibilitypatterns.objs;
+package com.codeman.chain.of.responsibility.patterns.objs;
 
-import com.codeman.chainofresponsibilitypatterns.Handler;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.Objects;

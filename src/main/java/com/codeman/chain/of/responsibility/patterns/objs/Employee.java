@@ -1,4 +1,4 @@
-package com.codeman.chainofresponsibilitypatterns.objs;
+package com.codeman.chain.of.responsibility.patterns.objs;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

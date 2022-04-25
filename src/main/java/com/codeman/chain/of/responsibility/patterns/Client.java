@@ -1,8 +1,9 @@
-package com.codeman.chainofresponsibilitypatterns;
+package com.codeman.chain.of.responsibility.patterns;
 
-import com.codeman.chainofresponsibilitypatterns.objs.Boss;
-import com.codeman.chainofresponsibilitypatterns.objs.Employee;
-import com.codeman.chainofresponsibilitypatterns.objs.GroupManager;
+
+import com.codeman.chain.of.responsibility.patterns.objs.Boss;
+import com.codeman.chain.of.responsibility.patterns.objs.Employee;
+import com.codeman.chain.of.responsibility.patterns.objs.GroupManager;
 
 /**
  * @author hdgaadd

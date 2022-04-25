@@ -1,6 +1,6 @@
-package com.codeman.chainofresponsibilitypatterns;
+package com.codeman.chain.of.responsibility.patterns.objs;
 
-import com.codeman.chainofresponsibilitypatterns.objs.Employee;
+
 import lombok.Data;
 
 /**
