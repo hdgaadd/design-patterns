@@ -1,6 +1,6 @@
 package com.codeman.interceptor.component;
 
-import com.codeman.interceptor.filter.Filter;
+import interceptor.filter.Filter;
 
 /**
  * @author hdgaadd

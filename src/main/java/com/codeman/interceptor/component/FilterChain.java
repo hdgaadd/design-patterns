@@ -1,6 +1,6 @@
 package com.codeman.interceptor.component;
 
-import com.codeman.interceptor.filter.Filter;
+import interceptor.filter.Filter;
 
 import java.util.ArrayList;
 import java.util.List;
