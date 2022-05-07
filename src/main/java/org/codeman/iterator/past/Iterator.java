@@ -1,4 +1,4 @@
-package org.codeman.iterator;
+package org.codeman.iterator.past;
 
 import java.util.ArrayList;
 import java.util.List;
