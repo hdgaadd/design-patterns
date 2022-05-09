@@ -2,7 +2,6 @@ package org.codeman.adapter;
 
 import lombok.extern.slf4j.Slf4j;
 
-import static com.sun.xml.internal.ws.spi.db.BindingContextFactory.LOGGER;
 
 /**
  * @author hdgaadd
@@ -14,6 +13,6 @@ public class FishingBoat {
      * [seɪl]航行
      */
     public void sail() {
-        LOGGER.info("the fishing boat is starting");
+        log.info("the fishing boat is starting");
     }
 }

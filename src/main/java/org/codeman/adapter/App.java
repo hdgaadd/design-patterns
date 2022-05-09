@@ -1,7 +1,5 @@
 package org.codeman.adapter;
 
-import lombok.var;
-
 /**
  * @author hdgaadd
  * Created on 2022/05/04
